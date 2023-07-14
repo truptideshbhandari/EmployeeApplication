@@ -1,0 +1,261 @@
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.exe
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.deps.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.runtimeconfig.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.pdb
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.AssemblyReference.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfoInputs.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfo.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.PersonCrudAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCrudAPI.props
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCrudAPI.props
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCrudAPI.props
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\scopedcss\bundle\PersonCrudAPI.styles.css
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CopyComplete
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\refint\PersonCrudAPI.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.pdb
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.genruntimeconfig.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\ref\PersonCrudAPI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\appsettings.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.exe
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.deps.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.runtimeconfig.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.pdb
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.AssemblyReference.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfoInputs.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfo.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CoreCompileInputs.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.PersonCrudAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCrudAPI.props
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCrudAPI.props
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCrudAPI.props
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\scopedcss\bundle\PersonCrudAPI.styles.css
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CopyComplete
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\refint\PersonCrudAPI.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.pdb
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.genruntimeconfig.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonCrudAPI\obj\Debug\net6.0\ref\PersonCrudAPI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\appsettings.json
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.exe
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.deps.json
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.runtimeconfig.json
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\PersonCrudAPI.pdb
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.AssemblyReference.cache
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfoInputs.cache
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.AssemblyInfo.cs
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CoreCompileInputs.cache
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.PersonCrudAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonCrudAPI.props
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonCrudAPI.props
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonCrudAPI.props
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\scopedcss\bundle\PersonCrudAPI.styles.css
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.csproj.CopyComplete
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\refint\PersonCrudAPI.dll
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.pdb
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\PersonCrudAPI.genruntimeconfig.cache
+D:\Tasks\Task 6th July\PersonCrudAPI\obj\Debug\net6.0\ref\PersonCrudAPI.dll

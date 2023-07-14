@@ -1,0 +1,86 @@
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.exe.config
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.exe
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.pdb
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.AssemblyReference.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.SuggestedBindingRedirects.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\Views\MainWindow.g.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\Views\PersonView.g.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\App.g.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.lref
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\Views\MainWindow.baml
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\Views\PersonView.baml
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.g.resources
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.Properties.Resources.resources
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.GenerateResource.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.CoreCompileInputs.cache
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.CopyComplete
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.exe
+C:\Users\EE212747\source\repos\Asp.net core Web Api\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.pdb
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.exe.config
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.exe
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\bin\Debug\PersonMvvm.pdb
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\bin\Debug\Newtonsoft.Json.dll
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\bin\Debug\Newtonsoft.Json.xml
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.AssemblyReference.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.SuggestedBindingRedirects.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\Views\MainWindow.g.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\Views\PersonView.g.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\App.g.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.lref
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\Views\MainWindow.baml
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\Views\PersonView.baml
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.g.resources
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.Properties.Resources.resources
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.GenerateResource.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.CoreCompileInputs.cache
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.csproj.CopyComplete
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.exe
+D:\Tasks\Woking Project\PersonCrudAPI\PersonMvvm\obj\Debug\PersonMvvm.pdb
+D:\Tasks\Separate\PersonMvvm\bin\Debug\PersonMvvm.exe.config
+D:\Tasks\Separate\PersonMvvm\bin\Debug\PersonMvvm.exe
+D:\Tasks\Separate\PersonMvvm\bin\Debug\PersonMvvm.pdb
+D:\Tasks\Separate\PersonMvvm\bin\Debug\Newtonsoft.Json.dll
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.csproj.AssemblyReference.cache
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.csproj.SuggestedBindingRedirects.cache
+D:\Tasks\Separate\PersonMvvm\obj\Debug\Views\MainWindow.g.cs
+D:\Tasks\Separate\PersonMvvm\obj\Debug\Views\PersonView.g.cs
+D:\Tasks\Separate\PersonMvvm\obj\Debug\App.g.cs
+D:\Tasks\Separate\PersonMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.cache
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.lref
+D:\Tasks\Separate\PersonMvvm\obj\Debug\Views\MainWindow.baml
+D:\Tasks\Separate\PersonMvvm\obj\Debug\Views\PersonView.baml
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.g.resources
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.Properties.Resources.resources
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.csproj.GenerateResource.cache
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.csproj.CoreCompileInputs.cache
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.csproj.CopyComplete
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.exe
+D:\Tasks\Separate\PersonMvvm\obj\Debug\PersonMvvm.pdb
+D:\Tasks\Task 6th July\PersonMvvm\bin\Debug\PersonMvvm.exe.config
+D:\Tasks\Task 6th July\PersonMvvm\bin\Debug\PersonMvvm.exe
+D:\Tasks\Task 6th July\PersonMvvm\bin\Debug\PersonMvvm.pdb
+D:\Tasks\Task 6th July\PersonMvvm\bin\Debug\Newtonsoft.Json.dll
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.csproj.AssemblyReference.cache
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.csproj.SuggestedBindingRedirects.cache
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\Views\MainWindow.g.cs
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\Views\PersonView.g.cs
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\App.g.cs
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.cache
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm_MarkupCompile.lref
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\Views\MainWindow.baml
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\Views\PersonView.baml
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.g.resources
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.Properties.Resources.resources
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.csproj.GenerateResource.cache
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.csproj.CoreCompileInputs.cache
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.csproj.CopyComplete
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.exe
+D:\Tasks\Task 6th July\PersonMvvm\obj\Debug\PersonMvvm.pdb

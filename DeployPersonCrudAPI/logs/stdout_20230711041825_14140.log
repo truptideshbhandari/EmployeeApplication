@@ -1,0 +1,98 @@
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\DeployPersonCrudAPI\
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+warn: Microsoft.EntityFrameworkCore.Query[10102]
+      The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+warn: Microsoft.EntityFrameworkCore.Query[10102]
+      The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (84ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+warn: Microsoft.EntityFrameworkCore.Query[10102]
+      The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+warn: Microsoft.EntityFrameworkCore.Query[10102]
+      The query uses a row limiting operator ('Skip'/'Take') without an 'OrderBy' operator. This may lead to unpredictable results. If the 'Distinct' operator is used after 'OrderBy', then make sure to use the 'OrderBy' operator after 'Distinct' as the ordering would otherwise get erased.
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (5ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (3ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_0 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[@__p_0='?' (DbType = Int32), @__p_1='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT [p].[PersonId], [p].[FirstName], [p].[LastName]
+      FROM [Persons] AS [p]
+      ORDER BY (SELECT 1)
+      OFFSET @__p_0 ROWS FETCH NEXT @__p_1 ROWS ONLY
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT COUNT(*)
+      FROM [Persons] AS [p]
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
